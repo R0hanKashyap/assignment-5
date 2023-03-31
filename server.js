@@ -6,9 +6,9 @@
 * 
 *  Name: Rohan Kashyap Student ID: 158391201 Date: 31/03/2023
 *
-*  Cyclic Web App URL: ________________________________________________________
+*  Cyclic Web App URL: https://clumsy-elk-raincoat.cyclic.app
 *
-*  GitHub Repository URL: ______________________________________________________
+*  GitHub Repository URL: https://github.com/R0hanKashyap/assignment-5
 *
 ********************************************************************************/ 
 
